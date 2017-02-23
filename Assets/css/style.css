@@ -225,7 +225,6 @@ input[type=submit] {
     
 }
 
-
 @media screen and (max-width: 980px) {
     .center {
         width: 730px;
@@ -250,8 +249,6 @@ input[type=submit] {
         margin-left: 40px;
     }*/
 }
-
-
 
 
 @media screen and (max-width: 768px) {
@@ -329,3 +326,9 @@ input[type=submit] {
         height: auto;
     }
 }
+
+
+
+
+
+
